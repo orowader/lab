@@ -85,7 +85,6 @@ public class testSelectionSort {
 			for(int i = 0; i < 4; ++i) {
 				assertEquals(Sortedarr[i], arr[i]);
 			}
-	}
     }
 
 
